@@ -1,5 +1,3 @@
-# AutomatedBuilder
-
 Automatisches Buildsystem für Java (Buildsystem_Source):
 
 Zum Erstellen eines ausführbaren Java-Archivs: 
